@@ -10,7 +10,7 @@ setup(name='mailgunapi-client',
           'mailgun',
           ],
       package_dir={
-        'mailgun': 'mailgun/',
+        'mailgun': 'mailgun',
         },
       install_requires=[
         'requests',
